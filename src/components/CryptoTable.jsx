@@ -5,7 +5,7 @@ function CryptoTable() {
   return (
     <table border="1" cellPadding="10" width="100%">
       <thead>
-        <tr>
+        <tr>  
           <th>رمزارز</th>
           <th>قیمت (تومان)</th>
           <th>قیمت تتری</th>

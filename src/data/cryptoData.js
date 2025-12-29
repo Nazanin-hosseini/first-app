@@ -1,25 +1,29 @@
 const cryptoData = [
   {
     id: 1,
-    name: "Bitcoin",
+    name: "بیت کوین",
     symbol: "BTC",
-    price: "3,200,000,000",
-    change: "+2.5%",
+    priceToman: "12,142,117,764",
+    priceUsdt: "87,362.96",
+    change: -0.65,
   },
   {
     id: 2,
-    name: "Ethereum",
+    name: "اتریوم",
     symbol: "ETH",
-    price: "180,000,000",
-    change: "-1.2%",
+    priceToman: "40,634,054",
+    priceUsdt: "2,936.5",
+    change: -0.11,
   },
   {
     id: 3,
-    name: "Tether",
+    name: "تتر",
     symbol: "USDT",
-    price: "60,000",
-    change: "0%",
+    priceToman: "138,500",
+    priceUsdt: "---",
+    change: 0,
   },
 ];
 
 export default cryptoData;
+ 
